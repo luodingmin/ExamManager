@@ -1,0 +1,9 @@
+E:\学生成绩管理系统\ExamManager\ExamManager.BLL\bin\Debug\ExamManager.BLL.dll
+E:\学生成绩管理系统\ExamManager\ExamManager.BLL\bin\Debug\ExamManager.BLL.pdb
+E:\学生成绩管理系统\ExamManager\ExamManager.BLL\obj\Debug\ExamManager.BLL.dll
+E:\学生成绩管理系统\ExamManager\ExamManager.BLL\obj\Debug\ExamManager.BLL.pdb
+E:\学生成绩管理系统\ExamManager\ExamManager.BLL\bin\Debug\ExamManager.DAL.dll
+E:\学生成绩管理系统\ExamManager\ExamManager.BLL\bin\Debug\ExamManager.Model.dll
+E:\学生成绩管理系统\ExamManager\ExamManager.BLL\bin\Debug\ExamManager.DAL.pdb
+E:\学生成绩管理系统\ExamManager\ExamManager.BLL\bin\Debug\ExamManager.Model.pdb
+E:\学生成绩管理系统\ExamManager\ExamManager.BLL\obj\Debug\ExamManager.BLL.csprojResolveAssemblyReference.cache

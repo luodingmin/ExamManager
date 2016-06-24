@@ -1,0 +1,4 @@
+E:\学生成绩管理系统\ExamManager\ExamManager.Model\bin\Debug\ExamManager.Model.dll
+E:\学生成绩管理系统\ExamManager\ExamManager.Model\bin\Debug\ExamManager.Model.pdb
+E:\学生成绩管理系统\ExamManager\ExamManager.Model\obj\Debug\ExamManager.Model.dll
+E:\学生成绩管理系统\ExamManager\ExamManager.Model\obj\Debug\ExamManager.Model.pdb
